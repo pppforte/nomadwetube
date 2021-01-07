@@ -1,3 +1,3 @@
 # KoKoa Clone 2020 Update
 
-CSS got so muchasds dkskadnksl
+HTML & CSS are so much fun!
